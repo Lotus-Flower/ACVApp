@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_5e0f6ddae8478b9554f112a3b2e2779d32fa2811.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_8cdda022863d2a665a24b459eaa7cc05ac2ba210.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0_a927b11de88c30da8dd07223f636356c9dc4ae08.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/okio-1.15.0_7ed3040e43f9d8311e7124cc43b010cc2fb175d4.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0_944d96be3ad43113cd6ae17869e29ee9737b0e84.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_e76e4a58f6d48eca90d5c2214660fc4b36dce611.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54/okhttp-3.12.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/okhttp-3.12.0_34d3439d801ccb0f6c7cb8489596e98a15caeeaf.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="323964c36556eb0e6209f65c1cef72b53b461ab8">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.2_f52376a81abb5b9116861563b527db7f458f7131.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.4.0/9286ea8ac29dc3822cca03291259db825e118506/adapter-rxjava2-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9286ea8ac29dc3822cca03291259db825e118506">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.4.0_4799da45a36cfc5a7b9304a8694e829693728f42.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/c0df91c5b9c98ebd28eec6764cb3416c195aec20/rxjava-2.2.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0df91c5b9c98ebd28eec6764cb3416c195aec20">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/rxjava-2.2.6_3e31ec1401d3ee681c3b2d2c1420f688c20fc506.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.5.0/713ce36037bf24a76a3974c05cb85c3f754b1cc3/retrofit-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="713ce36037bf24a76a3974c05cb85c3f754b1cc3">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/retrofit-2.5.0_6732f420ba941efe414f7a7427f487845d646785.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/gson-2.8.2_bb0c5899ba2753ad26708aa0fae24137f03e700c.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="15d7790ee311d961379c51b00aba12d5967cb7ea">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/converter-gson-2.4.0_8e546c61bbec0144fbf7d265a9f414fee20283a1.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_12a7d248cec961b041a8e2f4ec285d73f4d7e01d.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.1.1/8d680ba5a623724d1fb0e81c36a790f023a6cede/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5933d79207c8f2e005bdabafbf261c4b4e046059.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afef4b6cc81b83fe74a4a06e2e9757dd805e3526">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.1.1_23c6290bcc5e00d79f3e1ff1de063d184a5cfa2e.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_fad106bc00d96f63003f6add084ba41baafec774.jar" />
+    </item>
+    <item
+        jar="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/matthew/AndroidStudioProjects/ACVCodingChallenge/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_597a8f74cc1836e29b64bd497f738c9b6e629067.jar" />
+    </item>
+
+</items>
